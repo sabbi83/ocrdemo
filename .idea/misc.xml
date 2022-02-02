@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/acer/Desktop/OCRDemo/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/acer/Desktop/OCRDemo/app/src/main/res/layout/activity_camera_view.xml" value="0.25" />
+        <entry key="..\:/Users/acer/Desktop/OCRDemo/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/acer/Desktop/OCRDemo/app/src/main/res/layout/custom_progress_dialog.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/acer/Desktop/OCRDemo/app/src/main/res/layout/scan_item.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/acer/Desktop/OCRDemo/app/src/main/res/menu/menu_button.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/Desktop/OCRDemo/app/src/main/res/menu/menu_save.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.15307971014492755" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

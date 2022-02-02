@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720707867780",
+    "project_id": "ocrdemo-41c2d",
+    "storage_bucket": "ocrdemo-41c2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720707867780:android:2431373b93270c04315ed1",
+        "android_client_info": {
+          "package_name": "com.harvinder.ocrdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720707867780-hnras4r2ujtdhi4g6bbgnce7jevqtmsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsEBmT5bK7tZ00nhahxGum1kCG8sjZbrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720707867780-hnras4r2ujtdhi4g6bbgnce7jevqtmsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
